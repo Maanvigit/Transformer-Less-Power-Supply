@@ -37,19 +37,25 @@ The project covers the complete PCB design workflow, from schematic capture and 
 
 ### Schematic
 
+### Schematic
+
 The complete circuit schematic was designed using KiCad.
 
-<!-- Add schematic image here -->
+![Transformer-Less Power Supply Schematic](Transformerless_Power_Supply_Schematic.png)
+
+### PCB Layout
 
 ### PCB Layout
 
 The PCB layout was designed and routed using KiCad.
 
-<!-- Add PCB image here -->
+![Transformer-Less Power Supply PCB Layout](Transformerless_Power_Supply_PCB%20layout.png)
 
 ### 3D PCB View
 
-<!-- Add 3D PCB image here -->
+### 3D PCB View
+
+![Transformer-Less Power Supply 3D View](Transformerless_Power_Supply_3D_View.png)
 
 ## ⚠️ Safety Warning
 
